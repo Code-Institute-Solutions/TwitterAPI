@@ -1,0 +1,2 @@
+tweepy==3.5.0
+prettytable==0.7.2
